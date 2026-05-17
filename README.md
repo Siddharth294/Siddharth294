@@ -1,5 +1,5 @@
  👋 **Hi**, I’m @Siddharth294
-   I have a deep interrst in how does Large Language Model works and that has led me here
+   I have a deep interest in how does Large Language Model works and that has led me here
    
   🔥**Current focus**
  - Machine Learning
