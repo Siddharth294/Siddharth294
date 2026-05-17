@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siddharth294
-- 👀 I’m interested in open source
-- 🌱 I’m currently learning data structure and algorithms
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 Here is my personal email -siddharthy076@gmail.com
 
